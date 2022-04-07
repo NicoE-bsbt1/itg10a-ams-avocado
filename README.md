@@ -2,3 +2,4 @@
 AMS der Gruppe Avocado ITG10a
 
 github.com
+Nico ist ein Spast
